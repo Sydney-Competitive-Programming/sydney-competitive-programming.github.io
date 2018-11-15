@@ -1,6 +1,6 @@
 ## Welcome to Sydney Competitive Programming
 
-Welcome to [our meetup](https://www.meetup.com/Sydney-Competitive-Programming-Meetup/)!
+Welcome to [our meetup - Sydney Competitive Programming](https://www.meetup.com/Sydney-Competitive-Programming-Meetup/)!
 
 ### Useful links
 
