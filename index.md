@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Welcome to Sydney Competitive Programming
 
-You can use the [editor on GitHub](https://github.com/Sydney-Competitive-Programming/sydcp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to [our meetup](https://www.meetup.com/Sydney-Competitive-Programming-Meetup/)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Useful links
 
-### Markdown
+Our Slack channel - https://syd-comp-prog.slack.com
+Meetup page - https://www.meetup.com/Sydney-Competitive-Programming-Meetup/
+Github - https://github.com/Sydney-Competitive-Programming
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Introduction
+As this is a new group, the meetup structure will be pretty dynamic to start with. This is a chance for you to help shape what you want from this meetup and how you think it is best run! So please give us your feedback and we develop a structure that's best for us all.
 
-# Header 1
-## Header 2
-### Header 3
+What you can expect from the event is:
 
-- Bulleted
-- List
+1. MICRO-TALK & INTRODUCTION: We will start the event with an introduction to the coordinators, discuss the rules and introduce the challenges for the day. In the future we will be getting the community to present on things such as their favourite packages, design practices and quirks of certain languages.
 
-1. Numbered
-2. List
+2. MICRO-HACKATHON: Next we will split off and begin to develop our solutions. You can work on your own, or band together into teams to solve problems together.
 
-**Bold** and _Italic_ and `Code` text
+3. PRESENTATIONS & NETWORKING: Finally we will present our solutions to one another, crown a winner and come together to meet and chat. This is a social meetup remember!
 
-[Link](url) and ![Image](src)
-```
+You will need to bring with you your own laptop, but we are happy to help you set up your development environment for newbies. This event is for all skill levels. Don't feel intimidated if you are new to coding!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Welcome to our meetup!
 
-### Jekyll Themes
+Special thanks to General Assembly, who've offered up some space at their campus to run our meetup, as we now have a home to host our events.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sydney-Competitive-Programming/sydcp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+As this is a new group, the meetup structure will be pretty dynamic to start with. This is a chance for you to help shape what you want from this meetup and how you think it is best run! So please give us your feedback and we develop a structure that's best for us all.
 
-### Support or Contact
+What you can expect from the event is:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. MICRO-TALK & INTRODUCTION: We will start the event with an introduction to the coordinators, discuss the rules and introduce the challenges for the day. In the future we will be getting the community to present on things such as their favourite packages, design practices and quirks of certain languages.
+
+2. MICRO-HACKATHON: Next we will split off and begin to develop our solutions. You can work on your own, or band together into teams to solve problems together.
+
+3. PRESENTATIONS & NETWORKING: Finally we will present our solutions to one another, crown a winner and come together to meet and chat. This is a social meetup remember!
+
+You will need to bring with you your own laptop, but we are happy to help you set up your development environment for newbies. This event is for all skill levels. Don't feel intimidated if you are new to coding!
+
+
+
+
+
+ABOUT OUR PARTNER
+========================
+
+General Assembly is a pioneer in education and career transformation, specializing in today’s most in-demand skills. The leading source for training, staffing, and career transitions, we foster a flourishing community of professionals pursuing careers they love.
