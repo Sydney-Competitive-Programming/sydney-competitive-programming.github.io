@@ -4,11 +4,11 @@ Welcome to [our meetup - Sydney Competitive Programming](https://www.meetup.com/
 
 ### Useful links
 
-Our Slack channel - https://syd-comp-prog.slack.com
+Our Slack channel - [https://syd-comp-prog.slack.com]
 
-Meetup page - https://www.meetup.com/Sydney-Competitive-Programming-Meetup/
+Meetup page - [https://www.meetup.com/Sydney-Competitive-Programming-Meetup/]
 
-Github - https://github.com/Sydney-Competitive-Programming
+Github - [https://github.com/Sydney-Competitive-Programming]
 
 
 ### Introduction
